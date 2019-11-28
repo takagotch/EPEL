@@ -8,6 +8,8 @@ https://fedoraproject.org/wiki/EPEL/ja
 sudo su
 yum install epel-release
 
+
+
 ```
 
 ```
